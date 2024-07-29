@@ -20,5 +20,8 @@ I love keeping my work clean, well organized, and well-documented.
 If you have any inquiries or require further information, please don't hesitate to contact me at your convenience. 
 I sincerely appreciate your visit to my profile and eagerly anticipate the opportunity to connect with you.
 
-[c_sharp_basic certificate.pdf](https://github.com/user-attachments/files/16406337/c_sharp_basic.certificate.pdf)
-[frontend_developer_react certificate.pdf](https://github.com/user-attachments/files/16406342/frontend_developer_react.certificate.pdf)
+
+![C#](https://github.com/user-attachments/assets/6194fb3d-f3a1-483b-9764-c2cff22d9bab)
+![C#](https://github.com/user-attachments/assets/96109117-77cd-4879-bf96-0711afbfc402)
+![frontend(react)](https://github.com/user-attachments/assets/43f0b10c-da06-41e0-b846-7b4077e77061)
+![frontend(react)](https://github.com/user-attachments/assets/ccc5c5aa-6acf-4ed6-a034-00afcb9709b4)
